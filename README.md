@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers Demo
 
 - Class Date: Oct 20 - 21, 2025
 - Facilitator: @jasontiedt
