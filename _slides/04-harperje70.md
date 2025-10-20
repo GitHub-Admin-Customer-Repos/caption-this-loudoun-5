@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to the new version of the  slide deck!"
 ---
 
 HELLO WORLD!
